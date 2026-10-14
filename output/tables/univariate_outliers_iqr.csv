@@ -1,0 +1,12 @@
+variable,n_outliers,pct
+fixed_acidity,357,5.5
+volatile_acidity,377,5.8
+citric_acid,509,7.8
+residual_sugar,118,1.8
+chlorides,286,4.4
+free_sulfur_dioxide,62,1
+total_sulfur_dioxide,10,0.2
+density,3,0
+pH,73,1.1
+sulphates,191,2.9
+alcohol,3,0
