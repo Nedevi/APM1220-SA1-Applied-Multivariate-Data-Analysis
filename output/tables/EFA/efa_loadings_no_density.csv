@@ -1,0 +1,11 @@
+"","MR1","MR3","MR2"
+"fixed_acidity",-0.286,0.316,0.601
+"volatile_acidity",-0.29,0.514,-0.294
+"citric_acid",0.099,-0.139,0.706
+"residual_sugar",0.641,0.132,0.071
+"chlorides",-0.094,0.641,0.092
+"free_sulfur_dioxide",0.702,-0.064,-0.031
+"total_sulfur_dioxide",0.87,-0.084,-0.001
+"pH",-0.242,0.06,-0.467
+"sulphates",-0.241,0.333,0.102
+"alcohol",-0.514,-0.543,-0.016

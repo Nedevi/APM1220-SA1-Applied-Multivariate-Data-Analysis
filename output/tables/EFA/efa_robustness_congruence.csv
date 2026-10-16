@@ -1,0 +1,16 @@
+comparison,pooled_factor,matched_to,congruence
+Promax rotation,Preservation (SO2) vs. volatile acidity/salts,MR1,0.88
+Promax rotation,Body (density-extract) vs. alcohol,MR2,0.93
+Promax rotation,Fixed-acid strength,MR3,0.98
+Maximum likelihood,Preservation (SO2) vs. volatile acidity/salts,ML3,0.94
+Maximum likelihood,Body (density-extract) vs. alcohol,ML2,0.97
+Maximum likelihood,Fixed-acid strength,ML1,0.88
+Without multivariate outliers,Preservation (SO2) vs. volatile acidity/salts,MR1,0.99
+Without multivariate outliers,Body (density-extract) vs. alcohol,MR2,1
+Without multivariate outliers,Fixed-acid strength,MR3,0.98
+Red wines only,Preservation (SO2) vs. volatile acidity/salts,MR2,0.76
+Red wines only,Body (density-extract) vs. alcohol,MR3,0.91
+Red wines only,Fixed-acid strength,MR1,0.94
+White wines only,Preservation (SO2) vs. volatile acidity/salts,MR3,0.66
+White wines only,Body (density-extract) vs. alcohol,MR1,0.91
+White wines only,Fixed-acid strength,MR2,0.89

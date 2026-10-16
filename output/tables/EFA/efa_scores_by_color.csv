@@ -1,0 +1,7 @@
+factor,color,M,SD
+Body (density-extract) vs. alcohol,red,0.8682717144903648,0.9225383504650342
+Body (density-extract) vs. alcohol,white,-0.28345579246022395,1.1414602190663845
+Fixed-acid strength,red,-0.02860987788146554,1.3596884887300227
+Fixed-acid strength,white,0.009339974424760183,0.6271225556025617
+Preservation (SO2) vs. volatile acidity/salts,red,-1.3167234256826166,0.45751045137442464
+Preservation (SO2) vs. volatile acidity/salts,white,0.4298572392132507,0.5783936715964046
