@@ -1,0 +1,8 @@
+"","fixed_acidity","volatile_acidity","residual_sugar","chlorides","total_sulfur_dioxide","sulphates","pH"
+"fixed_acidity",1,-0.023,0.089,0.023,0.091,-0.017,-0.426
+"volatile_acidity",-0.023,1,0.064,0.071,0.089,-0.036,-0.032
+"residual_sugar",0.089,0.064,1,0.089,0.401,-0.027,-0.194
+"chlorides",0.023,0.071,0.089,1,0.199,0.017,-0.09
+"total_sulfur_dioxide",0.091,0.089,0.401,0.199,1,0.135,0.002
+"sulphates",-0.017,-0.036,-0.027,0.017,0.135,1,0.156
+"pH",-0.426,-0.032,-0.194,-0.09,0.002,0.156,1
